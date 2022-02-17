@@ -1,6 +1,10 @@
 .App {
   text-align: center;
-  background-color: #5B6D5B;
+}
+
+body {
+    background-color: #5B6D5B;
+    font-family: 'Poppins', sans-serif;
 }
 
 .App-header {
